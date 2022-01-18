@@ -84,3 +84,9 @@ TBD
 
 ## Merge Strategies
 TBD
+
+## Avoid Rebase Hell
+TBD
+
+## Tips
+TBD
